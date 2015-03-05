@@ -1,0 +1,7 @@
+name: PlayerData 2
+main: com.chaka15205.playerdata2.PlayerData2
+version: 1.0.2-InDev
+commands:
+   pd:
+      description: The Main PlayerData 2 Command
+      usage: /<command>
